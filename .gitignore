@@ -1,0 +1,59 @@
+# 운영체제 관련 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE 및 에디터 관련 파일
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# UML 도구 임시 파일
+*.bak
+*.mdj.bak
+*.tmp
+~$*
+*.lck
+
+# C++ 관련 파일
+# 컴파일된 바이너리 및 객체 파일
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# 컴파일 관련 디렉토리
+/bin/
+/build/
+/debug/
+/release/
+/obj/
+/out/
+/CMakeFiles/
+/cmake-build-*/
+
+# CMake 관련 파일
+CMakeCache.txt
+CMakeSettings.json
+cmake_install.cmake
+Makefile
+
+# PDF 변환 전 원본 파일 백업
+*.pdf.bak
+
+# 압축 파일 (프로젝트 제출 시 생성되는 파일)
+*.zip
+*.tar.gz
+*.rar
