@@ -58,7 +58,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 256,
-											"top": 592,
+											"top": 576,
 											"height": 13
 										},
 										{
@@ -70,10 +70,10 @@
 											"font": "Arial;13;1",
 											"parentStyle": true,
 											"left": 133,
-											"top": 270,
+											"top": 262,
 											"width": 40,
 											"height": 13,
-											"text": "사용자"
+											"text": "비회원"
 										},
 										{
 											"_type": "LabelView",
@@ -85,7 +85,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 256,
-											"top": 592,
+											"top": 576,
 											"width": 77.9365234375,
 											"height": 13,
 											"text": "(from Model)"
@@ -100,7 +100,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 256,
-											"top": 592,
+											"top": 576,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
@@ -108,7 +108,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 128,
-									"top": 263,
+									"top": 255,
 									"width": 50,
 									"height": 25,
 									"stereotypeLabel": {
@@ -137,7 +137,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 128,
-									"top": 296,
+									"top": 288,
 									"width": 10,
 									"height": 10
 								},
@@ -154,7 +154,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 128,
-									"top": 296,
+									"top": 288,
 									"width": 10,
 									"height": 10
 								},
@@ -171,7 +171,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 128,
-									"top": 296,
+									"top": 288,
 									"width": 10,
 									"height": 10
 								},
@@ -188,7 +188,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 128,
-									"top": 296,
+									"top": 288,
 									"width": 10,
 									"height": 10
 								}
@@ -197,7 +197,7 @@
 							"parentStyle": false,
 							"containerChangeable": true,
 							"left": 128,
-							"top": 208,
+							"top": 200,
 							"width": 49,
 							"height": 80,
 							"autoResize": true,
@@ -1565,7 +1565,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 245,
-									"top": 208,
+									"top": 203,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -1586,8 +1586,8 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 242,
-									"top": 193,
+									"left": 243,
+									"top": 188,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -1609,7 +1609,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 250,
-									"top": 237,
+									"top": 232,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1630,8 +1630,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 200,
-									"top": 217,
+									"left": 201,
+									"top": 210,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -1652,8 +1652,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 200,
-									"top": 203,
+									"left": 201,
+									"top": 197,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -1675,7 +1675,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 201,
-									"top": 245,
+									"top": 238,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -1697,7 +1697,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 290,
-									"top": 199,
+									"top": 195,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -1717,8 +1717,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 285,
-									"top": 186,
+									"left": 286,
+									"top": 182,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -1738,8 +1738,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 300,
-									"top": 225,
+									"left": 299,
+									"top": 221,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -1787,7 +1787,7 @@
 								"$ref": "AAAAAAGWpaXMh/l11c8="
 							},
 							"lineStyle": 1,
-							"points": "178:243;319:215",
+							"points": "178:236;319:212",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWpaiJ+vsLpjE="
@@ -3242,7 +3242,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "사용자",
+					"name": "비회원",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
